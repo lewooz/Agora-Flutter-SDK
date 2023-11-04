@@ -19,3 +19,4 @@ export 'src/render/media_player_controller.dart';
 export 'src/render/video_view_controller.dart';
 
 export 'src/agora_rtc_engine_ext.dart';
+export 'src/binding/impl_forward_export.dart';
